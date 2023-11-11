@@ -1,4 +1,4 @@
-<h2 align="left">Hi ... I'm a Ali</h2>
+<h2 align="left">Hi ... I'm Ali</h2>
 
 ###
 
